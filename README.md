@@ -30,6 +30,6 @@ Option 5 - compute the total residential market value per capita for a specified
 
 Option 6 - compute the zipcode with highest residential market value and highest average parking violation fine
 
-activities log
+activities log:
 
 <img width="748" alt="image" src="https://user-images.githubusercontent.com/77389522/172345824-b207dcee-ae49-4b15-b294-ce134c7a99b1.png">
